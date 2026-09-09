@@ -1,0 +1,10 @@
+{
+  "LICENSE": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+  "README.md": "4ebdf2d7c7ded4e9202abd6e6dda053abe259dfcf1c96686ddbbab463385ccda",
+  "SOURCES.md": "4f156ec159700182b308cbda4d8d624533032fb6f2a6bdafda051ef49abff21b",
+  "interventions.ttl": "30c122ddc3fe99e0205d6ca634ccc5d6c20c6ea4ab6f5bafa9c7382f1e5b1ef9",
+  "requirements-validation.txt": "088a0159793db496f4ca2243fcc0365f37c667b6f32ecf0c6a70853bc19c5c4f",
+  "source-manifest.json": "d94636e30fac247ff3eb3caec68b436d5eb984bb8b0a497d6aeff000fc232cd2",
+  "validate.py": "b4e8023e18f53565ce368e7622782c4fe922b39ecbfa40c4939b3c8fbe7a55a9",
+  "validation/ue-0.5.0.ttl": "2fbe2441c2b13c18c560e1cf4c2b649e200755a40495808c198514b712fcbd1b"
+}
