@@ -8,7 +8,7 @@ Version **0.4.0**. Counts below describe the 8 September 2026 snapshot.
 
 - `interventions.ttl`: 2,784 Interventions, organized by the kind of action or delivery mechanism.
 
-Interventions describe what is done. The conditions they seek to change and metrics used to evaluate them belong to the companion States and Indicators vocabulary.
+Interventions describe what is done. The conditions they seek to change and metrics used to evaluate them belong to the companion Conditions and Outcomes thesaurus.
 
 ## Use
 
